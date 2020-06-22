@@ -25,6 +25,7 @@ require (
 	github.com/go-ole/go-ole v1.2.1 // indirect
 	github.com/gogo/protobuf v1.2.2-0.20190723190241-65acae22fc9d
 	github.com/golang/protobuf v1.3.5
+	github.com/google/cel-go v0.5.1
 	github.com/google/go-querystring v1.0.0 // indirect
 	github.com/google/gofuzz v1.1.0
 	github.com/google/tcpproxy v0.0.0-20180808230851-dfa16c61dad2
@@ -79,15 +80,15 @@ require (
 	github.com/stretchr/testify v1.5.1
 	go.opencensus.io v0.22.0 // indirect
 	golang.org/x/crypto v0.0.0-20200604202706-70a84ac30bf9
-	golang.org/x/net v0.0.0-20191004110552-13f9640d40b9
+	golang.org/x/net v0.0.0-20200301022130-244492dfa37a
 	golang.org/x/oauth2 v0.0.0-20190604053449-0f29369cfe45
 	golang.org/x/sync v0.0.0-20200317015054-43a5402ce75a
 	golang.org/x/sys v0.0.0-20200316230553-a7d97aace0b0
 	golang.org/x/time v0.0.0-20200416051211-89c76fbcd5d1
 	google.golang.org/api v0.9.0 // indirect
 	google.golang.org/appengine v1.6.0 // indirect
-	google.golang.org/genproto v0.0.0-20190819201941-24fa4b261c55
-	google.golang.org/grpc v1.25.1
+	google.golang.org/genproto v0.0.0-20200305110556-506484158171
+	google.golang.org/grpc v1.27.1
 	gopkg.in/square/go-jose.v2 v2.4.1
 	k8s.io/api v0.16.9
 	k8s.io/apimachinery v0.16.9
